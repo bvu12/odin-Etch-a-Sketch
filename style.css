@@ -1,0 +1,13 @@
+body { 
+    min-height: 100%;
+}
+
+.grid {
+    display: flex;
+}
+
+.square {
+    border: 1px solid red;
+    flex-grow: 1;
+
+}
